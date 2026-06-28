@@ -1,14 +1,66 @@
-### 📌 Project 3: AWS Lambda
+# AWS Beginner Projects
 
-**Objective**
+## About This Repository
 
-Create and test a serverless function using AWS Lambda.
+This repository documents my hands-on learning journey with Amazon Web Services (AWS). I am transitioning into cloud computing and have completed beginner projects to understand core AWS services through practical experience.
 
-#### AWS Services Used
-- AWS Lambda
-- Python
+---
 
-#### Function Output
+# Project 1: Static Website Hosting with Amazon S3
+
+## Objective
+
+Host a simple static website using Amazon S3.
+
+## Services Used
+
+* Amazon S3
+* Static Website Hosting
+
+## What I Learned
+
+* Created an S3 bucket
+* Enabled static website hosting
+* Uploaded HTML and CSS files
+* Configured bucket permissions for public access
+* Hosted a live website on AWS
+
+## Screenshot
+
+![Amazon S3 Static Website](Screenshot%202026-06-29%20044926.png)
+
+---
+
+# Project 2: AWS Identity and Access Management (IAM)
+
+## Objective
+
+Learn AWS security fundamentals.
+
+## What I Learned
+
+* Created an IAM user
+* Created an IAM group
+* Attached permissions using IAM policies
+* Enabled Multi-Factor Authentication (MFA) for the root account
+* Learned the difference between users, groups, roles, and policies.
+
+---
+
+# Project 3: AWS Lambda
+
+## Objective
+
+Create and test a serverless function.
+
+## Services Used
+
+* AWS Lambda
+* Python
+
+## Result
+
+Successfully created and tested a Lambda function that returned:
 
 ```json
 {
@@ -17,27 +69,41 @@ Create and test a serverless function using AWS Lambda.
 }
 ```
 
-#### What I Learned
-- Created a Lambda function
-- Wrote a Python handler
-- Created and executed a test event
-- Viewed execution results and logs
-- Learned serverless computing basics
+## Screenshots
 
-#### Screenshots
+| Function Overview                                          | Code Editor                                          |
+| ---------------------------------------------------------- | ---------------------------------------------------- |
+| ![Function Overview](Screenshot%202026-06-29%20045538.png) | ![Code Editor](Screenshot%202026-06-29%20045656.png) |
 
-**Lambda Function Overview**
+| Test Event                                          | Execution Results                                          |
+| --------------------------------------------------- | ---------------------------------------------------------- |
+| ![Test Event](Screenshot%202026-06-29%20045956.png) | ![Execution Results](Screenshot%202026-06-29%20050410.png) |
 
-![Lambda Function Overview](project-3-lambda/screenshots/Screenshot%202026-06-29%20045538.png)
+---
 
-**Lambda Code Editor**
+# Skills Gained
 
-![Lambda Code Editor](project-3-lambda/screenshots/Screenshot%202026-06-29%20045656.png)
+* Amazon S3
+* Static Website Hosting
+* IAM
+* IAM Policies
+* Multi-Factor Authentication (MFA)
+* AWS Lambda
+* Python Basics
+* Cloud Security Fundamentals
 
-**Lambda Test Event**
+---
 
-![Lambda Test Event](project-3-lambda/screenshots/Screenshot%202026-06-29%20045956.png)
+# Next Learning Goals
 
-**Lambda Execution Results**
+* Amazon EC2
+* Amazon RDS
+* Amazon DynamoDB
+* Amazon API Gateway
+* AWS Cloud Practitioner Certification (CLF-C02)
 
-![Lambda Execution Results](project-3-lambda/screenshots/Screenshot%202026-06-29%20050410.png)
+---
+
+# About Me
+
+I have **4–5 years of experience as a Customer Care Analyst** and am actively transitioning into cloud computing. I created these projects to build practical AWS skills and prepare for cloud-focused roles. My goal is to continue learning, earn AWS certifications, and contribute to the AWS community.
