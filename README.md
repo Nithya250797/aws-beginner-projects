@@ -26,6 +26,9 @@ Host a simple static website using Amazon S3.
 * Hosted a live website on AWS
 
 ## Screenshot
+[View Live Website]http://nithyamp251997.s3-website-ap-southeast-2.amazonaws.com
+
+## Screenshot
 
 ![Amazon S3 Static Website](Screenshot%202026-06-29%20044926.png)
 
