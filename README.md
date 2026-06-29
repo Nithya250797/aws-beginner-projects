@@ -104,6 +104,15 @@ Successfully created and tested a Lambda function that returned:
 
 ---
 
-# About Me
+## About Me
 
-I have **4–5 years of experience as a Customer Care Analyst** and am actively transitioning into cloud computing. I created these projects to build practical AWS skills and prepare for cloud-focused roles. My goal is to continue learning, earn AWS certifications, and contribute to the AWS community.
+I have experience as a Network Analyst (3 years) and Analyst at Cummins 
+(1.5 years), and am actively transitioning into cloud computing. 
+
+I created these projects to build practical AWS skills from scratch — 
+entirely self-driven, outside of work and academic commitments. I am 
+currently pursuing a Bachelor of Computer Applications (BCA) to formalize 
+my technical foundation.
+
+My goal is to earn AWS certifications, move into a cloud-focused role, 
+and contribute to the AWS community.
