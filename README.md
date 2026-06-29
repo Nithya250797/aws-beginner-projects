@@ -83,6 +83,27 @@ Successfully created and tested a Lambda function that returned:
 | ![Test Event](Screenshot%202026-06-29%20045956.png) | ![Execution Results](Screenshot%202026-06-29%20050410.png) |
 
 ---
+*Project 4: Amazon EC2 — Virtual Server in the Cloud*
+
+*Objective*
+Launch a virtual server on AWS and host a web server.
+
+*Services Used*
+- Amazon EC2
+- Amazon Linux 2023
+- Apache HTTP Server
+
+*What I Learned*
+- Launched an EC2 instance (t3.micro)
+- Connected to the server using EC2 Instance Connect
+- Installed and configured Apache web server
+- Hosted a live webpage accessible via public IP
+- Managed security groups (SSH + HTTP access)
+- Stopped instance to avoid charges
+
+*Result*
+Successfully hosted a live web server accessible at http://3.107.233.92
+
 
 # Skills Gained
 
@@ -99,7 +120,6 @@ Successfully created and tested a Lambda function that returned:
 
 # Next Learning Goals
 
-* Amazon EC2
 * Amazon RDS
 * Amazon DynamoDB
 * Amazon API Gateway
