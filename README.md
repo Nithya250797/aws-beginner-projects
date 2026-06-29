@@ -25,7 +25,7 @@ Host a simple static website using Amazon S3.
 * Configured bucket permissions for public access
 * Hosted a live website on AWS
 
-## Screenshot
+## Live Website
 [View Live Website]http://nithyamp251997.s3-website-ap-southeast-2.amazonaws.com
 
 ## Screenshot
